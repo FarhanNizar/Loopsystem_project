@@ -48,5 +48,6 @@ to ensure you have the correct prerequisites installed. Please use the version o
 
 ## Configure Loop Network
 Please make sure you have Installed all **Prerequisites** of Hyperledger Fabric as stated in **Configure Hyperledger Fabric environment**
+
 1: Fork loopsystem_project from following GITHUB repository: 
 2: 
