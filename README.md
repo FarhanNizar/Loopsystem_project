@@ -47,6 +47,6 @@ Please visit the [installation instructions](http://hyperledger-fabric.readthedo
 to ensure you have the correct prerequisites installed. Please use the version of the documentation that matches the version of the software you intend to use to ensure alignment.
 
 ## Configure Loop Network
-Please make sure to 
+Please make sure you have Installed all **Prerequisites** of Hyperledger Fabric as stated in **Configure Hyperledger Fabric environment**
 1: Fork loopsystem_project from following GITHUB repository: 
 2: 
